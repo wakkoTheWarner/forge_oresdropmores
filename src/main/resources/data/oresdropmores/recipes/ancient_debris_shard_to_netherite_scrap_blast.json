@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "oresdropmores:ancient_debris_shard"
+    },
+    "result": "minecraft:netherite_scrap",
+    "experience": 1.0,
+    "cookingtime": 50
+}

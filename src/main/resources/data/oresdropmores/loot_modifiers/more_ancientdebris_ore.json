@@ -1,0 +1,10 @@
+{
+  "type": "oresdropmores:add_item",
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:ancient_debris"
+    }
+  ],
+  "item": "oresdropmores:ancient_debris_shard"
+}

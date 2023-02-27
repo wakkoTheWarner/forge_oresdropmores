@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "entries": [
+    "oresdropmores:more_coal_ore",
+    "oresdropmores:more_iron_ore",
+    "oresdropmores:more_gold_ore",
+    "oresdropmores:more_diamond_ore",
+    "oresdropmores:more_emerald_ore",
+    "oresdropmores:more_lapis_ore",
+    "oresdropmores:more_redstone_ore",
+    "oresdropmores:more_copper_ore",
+    "oresdropmores:more_netherquartz_ore",
+    "oresdropmores:more_nethergold_ore",
+    "oresdropmores:more_ancientdebris_ore",
+    "oresdropmores:more_deepslate_coal_ore",
+    "oresdropmores:more_deepslate_copper_ore",
+    "oresdropmores:more_deepslate_diamond_ore",
+    "oresdropmores:more_deepslate_emerald_ore",
+    "oresdropmores:more_deepslate_gold_ore",
+    "oresdropmores:more_deepslate_iron_ore",
+    "oresdropmores:more_deepslate_lapis_ore",
+    "oresdropmores:more_deepslate_redstone_ore"
+  ]
+}
